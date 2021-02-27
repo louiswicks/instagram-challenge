@@ -1,11 +1,15 @@
 # Rails
 # =====
+
 #
 # Here are some additions to Scaffolint for Rails apps.
 #
 # Enable the Rails rules included in the rubocop-rails gem.
 require:
   - rubocop-rails
+
+  gem "rubocop", "0.79.0", require: false
+  gem "rubocop-rails" 
 
 # Exclusions
 # ==========

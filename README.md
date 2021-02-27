@@ -1,3 +1,5 @@
+Attempting the week 8 instagram challenge.
+
 Instagram Challenge
 ===================
 
